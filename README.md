@@ -50,10 +50,11 @@ The [Synopsys Custom Compiler™](https://www.synopsys.com/implementation-and-si
 </p>
 
 ## Reference Circuit Details
+An output voltage with low sensitivity is achieved in bandgap reference as the sum of a voltage that is Proportional To Absolute Temperature (PTAT) and a voltage with a negative temperature coefficient that is Complementary To Absolute Temperature (CTAT) (CTAT). The PTAT voltage is calculated by subtracting the base-emitter voltages of two bipolar transistors. The voltage across a forward biassed p-n junction or the base-emitter voltage (VBE) of a diode coupled bipolar junction transistor (BJT) is commonly used to calculate the CTAT voltage. The BJT transistors have been used to create voltage reference circuits, where the I-V properties of the BJTs provide an appealing approach of overcoming PVT changes.
 
 ## Reference Circuit Diagram   
 <p align="center">
-<img src="ckt_dg.PNG"></br>
+<img src="ckt_1.jpg"></br>
   Fig. 2: Refernce Circuit 
 </p>
 
