@@ -65,10 +65,10 @@ An output voltage with low sensitivity is achieved in bandgap reference as the s
 ## Schematic
 <p align="center">
 <img src="bgr.PNG"></br>
-  Fig.3: Band Gap Refernce Circuit 
+      Fig.3: Band Gap Refernce Circuit 
 </p>
 <img src="bgr_with_startup.PNG"></br>
-  Fig.4: Band Gap Refernce Circuit  with start-up circuit
+      Fig.4: Band Gap Refernce Circuit  with start-up circuit
 </p>
 
 ## Pre-layout Simulation
@@ -81,14 +81,14 @@ An output voltage with low sensitivity is achieved in bandgap reference as the s
   <li><a href="#temperature variation check">Refernce Voltage Check</a></li>
   <p align="center">
   <img src="temptr.PNG"></br>
-  Fig.6 temperaure sweep:  
+       Fig.6 temperaure sweep:  
    </p>
    </li>
   
   <li><a href="#voltage variation check">Voltage Variation Check</a></li>
       <p align="center">
       <img src="voltage.PNG"></br>
-       Fig. 7 voltage sweep:  
+           Fig. 7 voltage sweep:  
       </p>
       </ul>
     </li>  
