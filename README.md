@@ -16,8 +16,7 @@ Implementation of bandgap reference circuit on  Synopsys Custom Compiler Tool  o
 	  <ul>
         <li><a href="#Custom Compiler">Custom Compiler</a></li>
     </ul>
-  </li>
-	  <li>  
+  </li>  <li>  
 	  <li> 	  <a href="#Reference Circuit"> Reference Circuit </a>  </li>
           <li>    <a href="#Reference Circuit Diagram"> Reference Circuit Diagram </a></li
 	  </li>  
@@ -63,37 +62,37 @@ An output voltage with low sensitivity is achieved in bandgap reference as the s
 ## Schematic
 <p align="center">
 <img src="bgr.PNG"></br>
-  Fig. 2: Band Gap Refernce Circuit 
+  Fig.3: Band Gap Refernce Circuit 
 </p>
 <img src="bgr_with_startup.PNG"></br>
-  Fig.3: Band Gap Refernce Circuit  with start-up circuit
+  Fig.4: Band Gap Refernce Circuit  with start-up circuit
 </p>
 
 ## Pre-layout Simulation
   <li><a href="#temperature variation check">Temperature Variation Check</a></li>
   <p align="center">
   <img src="temperature.PNG"></br>
-  Fig.4 temperaure sweep:  
+  Fig.5 temperaure sweep:  
  </p>
   </li>
   <li><a href="#temperature variation check">Refernce Voltage Check</a></li>
   <p align="center">
   <img src="temptr.PNG"></br>
-  Fig.4 temperaure sweep:  
+  Fig.6 temperaure sweep:  
    </p>
    </li>
   
   <li><a href="#voltage variation check">Voltage Variation Check</a></li>
       <p align="center">
       <img src="voltage.PNG"></br>
-       Fig. 5 voltage sweep:  
+       Fig. 7 voltage sweep:  
       </p>
       </ul>
     </li>  
      <li><a href="#voltage variation check">Voltage Variation Check</a></li>
       <p align="center">
       <img src="voltage_time.PNG"></br>
-       Fig. 5 voltage sweep:  
+       Fig.8 voltage sweep with respect to time:  
       </p>
       </ul>
     </li>  
