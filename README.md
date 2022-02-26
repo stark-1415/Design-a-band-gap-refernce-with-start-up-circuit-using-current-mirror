@@ -1,7 +1,43 @@
-# Design-a-band-gap-refernce-with-start-up-circuit-using-current-mirror
+## Design-a-band-gap-refernce-with-start-up-circuit-using-current-mirror
 Implementation of bandgap reference circuit on  Synopsys Custom Compiler Tool  on 28nm CMOS Technology .
-                                         Band Gap Refernce Design
+ <br />
+<p align="center">
+  <h3 align="center">Bandgap Reference Design</h3>
+</p>
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#introduction">Introduction</a>
+    </li>
+  <li>
+      <a href="#tools">Tools</a>
+	  <ul>
+        <li><a href="#Custom Compiler">Custom Compiler</a></li>
+    </ul>
+  </li>
+	       <li>
+      <a href="#schematic">Schematic</a>
+	</li>
+	<li>
+      <a href="#pre-layout simulations">Pre-Layout Simulations</a>	
+	  	<ul>
+        <li><a href="#voltage variation check">Voltage Variation Check</a></li>
+        <li><a href="#temperature variation check">Temperature Variation Check</a></li>
+      </ul>
+    </li>    
+    <li><a href="#future work">Future Work</a></li>
+	  <li><a href="#references">References</a></li>
+	  <li><a href="#acknowledgement">Acknowledgement</a></li>
+	
+  </ol>
+</details>
                                          
+## Introduction
+THE BANDGAP REFERENCE (BGR) is a critical building component in most analogue circuits such as regulators, oscillators, ADCs, and so on, because all 
+Integrated Circuits (ICs) rely on a temperature-independent voltage reference.
+
 ## Acknowledgement
 
 1. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
