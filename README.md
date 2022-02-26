@@ -61,7 +61,7 @@ fdggg
 <img src="bgr.PNG"></br>
   Fig. 2: Band Gap Refernce Circuit 
 </p>
-<img src=""></br>
+<img src="*bgr_with_st*"></br>
   Fig. 3: Band Gap Refernce Circuit  with start-up circuit
 </p>
 
