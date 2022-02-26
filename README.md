@@ -17,7 +17,8 @@ Implementation of bandgap reference circuit on  Synopsys Custom Compiler Tool  o
         <li><a href="#Custom Compiler">Custom Compiler</a></li>
     </ul>
   </li>
-	  <li>   Reference Circuit Details </li>
+	  <li>  
+		  <a href="#Reference Circuit"> Reference Circuit </a>  </li>
  <li>            Reference Circuit Diagram  </li>
   <li>           Reference Circuit Waveform </li>
 	  </li>  
