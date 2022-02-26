@@ -115,6 +115,10 @@ An output voltage with low sensitivity is achieved in bandgap reference as the s
 7. [VLSI System Design (VSD) Corp. Pvt. Ltd India](https://www.vlsisystemdesign.com/)
 
 ## Reference
-1. Zhanke Yan, Chunming Zhang, Menghai Wang, “LowVoltage Band-gap Reference Circuit in 28nm CMOS,” 2018 IEEE Asia Pacific Conference 
+<li>
+ Zhanke Yan, Chunming Zhang, Menghai Wang, “LowVoltage Band-gap Reference Circuit in 28nm CMOS,” 2018 IEEE Asia Pacific Conference 
 on Circuits and Systems.
-2.Behzad Razavi. “Design of Analog CMOS Integrated Circuits,” Tata McGraw-Hill Edition, 2002, ch. 11, pp
+</li>
+<li>
+Behzad Razavi. “Design of Analog CMOS Integrated Circuits,” Tata McGraw-Hill Edition, 2002, ch. 11, pp
+</li>
