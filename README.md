@@ -19,8 +19,8 @@ Implementation of bandgap reference circuit on  Synopsys Custom Compiler Tool  o
   </li>
 	  <li>  
 		  <a href="#Reference Circuit"> Reference Circuit </a>  </li>
- <li>            Reference Circuit Diagram  </li>
-  <li>           Reference Circuit Waveform </li>
+ <li>      <a href="#Reference Circuit Diagram"> Reference Circuit Diagram </a>        </li>
+  
 	  </li>  
 	       <li>
       <a href="#schematic">Schematic</a>
@@ -59,8 +59,7 @@ An output voltage with low sensitivity is achieved in bandgap reference as the s
   Fig. 2: Refernce Circuit 
 </p>
 
-## Reference Circuit Waveform
-fdggg
+
 # Simulation in Synopsys
 ## Schematic
 <p align="center">
