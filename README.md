@@ -102,7 +102,7 @@ fdggg
 ## Conclusion
  The repository presents the design and simulation of band gap refernce circuit using start-up on 28nm technology node.Add cascode transistors in the design to improve stability of output  reference voltage.
     
-4. Perform PNR of the design using openLANE flow.
+
 ## Acknowledgement
 
 1. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
