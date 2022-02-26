@@ -17,6 +17,10 @@ Implementation of bandgap reference circuit on  Synopsys Custom Compiler Tool  o
         <li><a href="#Custom Compiler">Custom Compiler</a></li>
     </ul>
   </li>
+	  <li>   Reference Circuit Details </li>
+ <li>            Reference Circuit Diagram  </li>
+  <li>           Reference Circuit Waveform </li>
+	  </li>  
 	       <li>
       <a href="#schematic">Schematic</a>
 	</li>
@@ -37,11 +41,28 @@ Implementation of bandgap reference circuit on  Synopsys Custom Compiler Tool  o
 ## Introduction
 THE BANDGAP REFERENCE (BGR) is a critical building component in most analogue circuits such as regulators, oscillators, ADCs, and so on, because all 
 Integrated Circuits (ICs) rely on a temperature-independent voltage reference.
+
 ## Synopsys Custom Compiler Tool Details
 The [Synopsys Custom Compiler™](https://www.synopsys.com/implementation-and-signoff/custom-design-platform/custom-compiler.html) design environment is a modern solution for full-custom analog, custom digital, and mixed-signal IC design. As the heart of the Synopsys Custom Design Platform, Custom Compiler provides design entry, simulation management and analysis, and custom layout editing features. It delivers industry-leading productivity, performance, and ease-of-use while remaining easy to adopt for users of legacy tools.
 <p align="center">
 <img src="custom_compiler.png"></br>
   Figure : Synopsis Custom Compiler 
+</p>
+
+## Reference Circuit Details
+vfdvdf
+## Reference Circuit Diagram
+fdgdg
+## Reference Circuit Waveform
+fdggg
+# Simulation in Synopsys
+## Schematic
+<p align="center">
+<img src=""></br>
+  Fig. 2: Band Gap Refernce Circuit 
+</p>
+<img src=""></br>
+  Fig. 3: Band Gap Refernce Circuit  with start-up circuit
 </p>
 
 ## Acknowledgement
