@@ -27,8 +27,8 @@ Implementation of bandgap reference circuit on  Synopsys Custom Compiler Tool  o
 	<li>
       <a href="#pre-layout simulations">Pre-Layout Simulations</a>	
 	  	<ul>
-        <li><a href="#voltage variation check">Voltage Variation Check</a></li>
         <li><a href="#temperature variation check">Temperature Variation Check</a></li>
+        <li><a href="#voltage variation check">Voltage Variation Check</a></li>
       </ul>
     </li>    
     <li><a href="#future work">Future Work</a></li>
@@ -58,12 +58,28 @@ fdggg
 # Simulation in Synopsys
 ## Schematic
 <p align="center">
-<img src=""></br>
+<img src="bgr.PNG"></br>
   Fig. 2: Band Gap Refernce Circuit 
 </p>
 <img src=""></br>
   Fig. 3: Band Gap Refernce Circuit  with start-up circuit
 </p>
+
+## Pre-layout Simulation
+  <li><a href="#temperature variation check">Temperature Variation Check</a></li>
+  <p align="center">
+  <img src=""></br>
+  Fig. 2:  
+ </p>
+  <li><a href="#voltage variation check">Voltage Variation Check</a></li>
+      <p align="center">
+      <img src=""></br>
+       Fig. 2:  
+      </p>
+      </ul>
+    </li>  
+    
+
 
 ## Acknowledgement
 
