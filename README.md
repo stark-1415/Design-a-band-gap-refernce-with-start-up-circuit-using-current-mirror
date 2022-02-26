@@ -78,7 +78,7 @@ fdggg
   </li>
   <li><a href="#temperature variation check">Refernce Voltage Check</a></li>
   <p align="center">
-  <img src=""></br>
+  <img src="temptr.PNG"></br>
   Fig.4 temperaure sweep:  
    </p>
    </li>
@@ -92,23 +92,21 @@ fdggg
     </li>  
      <li><a href="#voltage variation check">Voltage Variation Check</a></li>
       <p align="center">
-      <img src="voltage.PNG"></br>
+      <img src="voltage_time.PNG"></br>
        Fig. 5 voltage sweep:  
       </p>
       </ul>
     </li>  
     
-
-
+## Conclusion
+fgghg
 ## Acknowledgement
 
 1. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
 2. Chinmay panda, IIT Hyderabad
 3. Sameer Durgoji, NIT Karnataka
 4. [Synopsys Team/Company](https://www.synopsys.com/)
-1. [Cloud Based Analog IC Design Hackathon](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
-2. [Synopsys India](https://www.synopsys.com/)
-3. [VLSI System Design (VSD) Corp. Pvt. Ltd India](https://www.vlsisystemdesign.com/)
-4. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
-5. Chinmay panda, IIT Hyderabad
-6. Sameer Durgoji, NIT Karnatak
+5. [Cloud Based Analog IC Design Hackathon](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
+6. [Synopsys India](https://www.synopsys.com/)
+7. [VLSI System Design (VSD) Corp. Pvt. Ltd India](https://www.vlsisystemdesign.com/)
+
