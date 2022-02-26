@@ -62,19 +62,26 @@ fdggg
   Fig. 2: Band Gap Refernce Circuit 
 </p>
 <img src="bgr_with_startup.PNG"></br>
-  Fig. 3: Band Gap Refernce Circuit  with start-up circuit
+  Fig.3: Band Gap Refernce Circuit  with start-up circuit
 </p>
 
 ## Pre-layout Simulation
   <li><a href="#temperature variation check">Temperature Variation Check</a></li>
   <p align="center">
   <img src="temperature.PNG"></br>
-  Fig. 2:  
+  Fig.4 temperaure sweep:  
  </p>
   <li><a href="#voltage variation check">Voltage Variation Check</a></li>
       <p align="center">
-      <img src=""></br>
-       Fig. 2:  
+      <img src="voltage.PNG"></br>
+       Fig. 5 voltage sweep:  
+      </p>
+      </ul>
+    </li>  
+     <li><a href="#voltage variation check">Voltage Variation Check</a></li>
+      <p align="center">
+      <img src="voltage.PNG"></br>
+       Fig. 5 voltage sweep:  
       </p>
       </ul>
     </li>  
