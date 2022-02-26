@@ -68,7 +68,7 @@ fdggg
 ## Pre-layout Simulation
   <li><a href="#temperature variation check">Temperature Variation Check</a></li>
   <p align="center">
-  <img src=""></br>
+  <img src="temperature.PNG"></br>
   Fig. 2:  
  </p>
   <li><a href="#voltage variation check">Voltage Variation Check</a></li>
