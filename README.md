@@ -100,7 +100,9 @@ fdggg
     </li>  
     
 ## Conclusion
-fgghg
+ The repository presents the design and simulation of band gap refernce circuit using start-up on 28nm technology node.Add cascode transistors in the design to improve stability of output  reference voltage.
+    
+4. Perform PNR of the design using openLANE flow.
 ## Acknowledgement
 
 1. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
@@ -111,3 +113,7 @@ fgghg
 6. [Synopsys India](https://www.synopsys.com/)
 7. [VLSI System Design (VSD) Corp. Pvt. Ltd India](https://www.vlsisystemdesign.com/)
 
+## Reference
+1. Zhanke Yan, Chunming Zhang, Menghai Wang, “LowVoltage Band-gap Reference Circuit in 28nm CMOS,” 2018 IEEE Asia Pacific Conference 
+on Circuits and Systems.
+2.Behzad Razavi. “Design of Analog CMOS Integrated Circuits,” Tata McGraw-Hill Edition, 2002, ch. 11, pp
