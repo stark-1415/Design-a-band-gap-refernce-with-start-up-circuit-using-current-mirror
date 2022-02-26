@@ -54,7 +54,7 @@ The [Synopsys Custom Compiler™](https://www.synopsys.com/implementation-and-si
 ## Reference Circuit Diagram   
 <p align="center">
 <img src="ckt_dg.PNG"></br>
-  Fig. 2: Band Gap Refernce Circuit 
+  Fig. 2: Refernce Circuit 
 </p>
 
 ## Reference Circuit Waveform
