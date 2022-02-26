@@ -46,13 +46,17 @@ Integrated Circuits (ICs) rely on a temperature-independent voltage reference.
 The [Synopsys Custom Compiler™](https://www.synopsys.com/implementation-and-signoff/custom-design-platform/custom-compiler.html) design environment is a modern solution for full-custom analog, custom digital, and mixed-signal IC design. As the heart of the Synopsys Custom Design Platform, Custom Compiler provides design entry, simulation management and analysis, and custom layout editing features. It delivers industry-leading productivity, performance, and ease-of-use while remaining easy to adopt for users of legacy tools.
 <p align="center">
 <img src="custom_compiler.png"></br>
-  Figure : Synopsis Custom Compiler 
+  Fig 1 : Synopsis Custom Compiler 
 </p>
 
 ## Reference Circuit Details
-vfdvdf
-## Reference Circuit Diagram
-fdgdg
+
+## Reference Circuit Diagram   
+<p align="center">
+<img src="ckt_dg.PNG"></br>
+  Fig. 2: Band Gap Refernce Circuit 
+</p>
+
 ## Reference Circuit Waveform
 fdggg
 # Simulation in Synopsys
@@ -71,6 +75,14 @@ fdggg
   <img src="temperature.PNG"></br>
   Fig.4 temperaure sweep:  
  </p>
+  </li>
+  <li><a href="#temperature variation check">Refernce Voltage Check</a></li>
+  <p align="center">
+  <img src=""></br>
+  Fig.4 temperaure sweep:  
+   </p>
+   </li>
+  
   <li><a href="#voltage variation check">Voltage Variation Check</a></li>
       <p align="center">
       <img src="voltage.PNG"></br>
