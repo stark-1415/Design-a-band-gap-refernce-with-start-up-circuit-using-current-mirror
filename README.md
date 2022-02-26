@@ -9,10 +9,10 @@ Implementation of bandgap reference circuit on  Synopsys Custom Compiler Tool  o
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#introduction">Introduction</a>
+      <a href="#Introduction">Introduction</a>
     </li>
   <li>
-      <a href="#tools">Tools</a>
+      <a href="#Synopsys Custom Compiler Tool Detailss">Synopsys Custom Compiler Tool Details</a>
 	  <ul>
         <li><a href="#Custom Compiler">Custom Compiler</a></li>
     </ul>
