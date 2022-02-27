@@ -33,9 +33,9 @@ Implementation of bandgap reference circuit on  Synopsys Custom Compiler Tool  o
         <li><a href="#voltage variation check">Voltage Variation Check</a></li>
       </ul>
     </li>    
-    <li><a href="#future work">Future Work</a></li>
-	  <li><a href="#references">References</a></li>
+    <li><a href="#Conclusion">Conclusion</a></li>
 	  <li><a href="#acknowledgement">Acknowledgement</a></li>
+	  <li><a href="#references">References</a></li>
 	
   </ol>
 </details>
